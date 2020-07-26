@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Music Player</string>
+    <string name="song_name"> Bella caio</string>
+    <string name="artist_name">El Profesor</string>
+</resources>
