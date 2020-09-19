@@ -1,4 +1,4 @@
-package com.priyankgandhi.mymusicplayer;
+package com.cluelesstech.mymusicplayer;
 
 import android.content.Context;
 
